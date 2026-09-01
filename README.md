@@ -13,3 +13,4 @@ Sango7/
     ├── GameText.ini
     └── ... cac file .ini da dich khac
 ```
+EditSango7.rar dung de sua file save cho phien ban 1.2.2.0
