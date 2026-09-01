@@ -1,7 +1,8 @@
 # Huong dan dat file dich vao thu muc game Sango7
 
-Dat cac file dich truc tiep vao thu muc Setting nam cung cap voi file Sango7.exe.
+Dat cac file dich truc tiep vao thu muc `Setting` nam cung cap voi file `Sango7.exe`.
 
+```text
 Sango7/
 ├── Sango7.exe
 ├── Patch.PCK
@@ -11,3 +12,4 @@ Sango7/
     ├── GossipText.ini
     ├── GameText.ini
     └── ... cac file .ini da dich khac
+```
